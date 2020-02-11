@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name":"Nishit Shah",
+    "occupation":"Full Stack Developer",
+    "description":"Final year Computer Science bachelor student with a major in Data Science and passion for Web Development.",
+    "image":"profilepic.jpg",
+    "bio":"Besides understanding the mathematics of ML algorithms, i am really passionate about functional programming and web development as i like to build things, just as i did while i was leading a 850 employee Ceramic company and my pottery studio or while leading a group up a mountain or starting a podcast.",
+    "contactmessage":"Drop me a line, just to say hi or if you would like to hire me.",
+    "email": "nishitshah [at] mailfence [dot] com",
+    "address":{
+      "city":"Barcelona"
+    },
+    "website": "http://www.shahnishit.space",
+    "resumedownload":"http://shahnishit.space",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/wahmrshah",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/wahmrshah/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/jodobear",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Well versed with FP techniques in Javascript, React, Node & ML in Python.",
+    "education":[
+      {
+        "school":"Moscow Institute of Physics & Technology, Moscow, Russia",
+        "degree":"Diploma Applied Maths and Informatics",
+        "period":"September 2019 - February 2021",
+        "description":"Heavy focus on Probability Theory, mathematis of ML algorithms, Algorithms & Data Structures while also learning Android and Web development."
+      },
+      {
+        "school":"Harbour Space University, Barcelona, Spain",
+        "degree":"Bachelor of Computer Science",
+        "period":"September 2017 - February 2021",
+        "description":"Majoring in Data Science."
+      },
+      {
+        "school":"DES Law College, Pune University, Pune, India",
+        "degree":"BSL LLB",
+        "period":"June 2005 - April 2010",
+        "description":"Majored in Constitution of India."
+      }
+    ],
+    "work":[
+      {
+        "company":"Oasis Ceramics Pvt Ltd",
+        "title":"Business Transformation Manager",
+        "years":"October 2014 - July 2017",
+        "description":"Lead a complete change of layout to implement LEAN facility design. Reduced wastage by > 30%, manufacturing time by > 20%, material movement from 1545m to 580m. Improved overall productivity by > 10%."
+      },
+      {
+        "company":"Oasis Ceramics Pvt Ltd",
+        "title":"Technical Head of Department",
+        "years":" August 2011 - September 2014",
+        "description":"Lab Incharge. Established SOPs for material testing and production process. QA & QC incharge. Worked with international laboratories to make the best body and glaze in production in India for Bone China Tableware."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"PDF Stamper",
+        "description":"A Win/Linux GUI PDF batch stamper with numbering for French Lawyers",
+        "image":"pdf-stamper-fr.png",
+        "url":"https://github.com/jodobear/pdf-stamper"
+      },
+      {
+        "title":"Blackjack",
+        "description":"A Javascript, jQuery, CSS & HTML based Blackjack Game.",
+        "image":"blackjack.jpg",
+        "url":"http://www.wahmrshah.com"
+      },
+      {
+        "title":"Resume Website",
+        "description":"A React based resume website.",
+        "image":"resume-website.jpg",
+        "url":"http://www.wahmrshah.com"
+      },
+      {
+        "title":"Why Bitcoin",
+        "description":"An educational presentation on why Bitcoin makes sense.",
+        "image":"why_bitcoin.png",
+        "url":"https://github.com/jodobear/why_bitcoin"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Nishit is a talented student. His motivation to progress in science, his analytical thinking and hunger for knowledge are all signs of a potentially good scientist.",
+        "user":"David Zmiaikou, Professor of Mathematics Belarussian State university & Harbour Space"
+      },
+      {
+        "text":"Nishit was one of the best students in class. He was very motivated and enthusiastic to learn new material. Furthermore, he was able to manage complexity and intensity of the course.",
+        "user":"Mikhail Schupletsov, Associate Professor at Lomonosov Moscow State University & Harbour Space"
+      }
+    ]
+  }
+}
